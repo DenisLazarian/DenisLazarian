@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/denis-emanuel-lazarian" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%2370acee.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/linkedin-%2370acee.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 15px;" />
 </a>  
   
 
