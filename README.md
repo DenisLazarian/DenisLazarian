@@ -6,7 +6,6 @@
 </a>  
   
 
-I love code and learning from experienced people. You have to remember that knowledge is power.
 
 ```
 const denisLazarian = {
@@ -18,3 +17,4 @@ const denisLazarian = {
   }
 }
 ```
+I love code and learning from experienced people. You have to remember that knowledge is power.
