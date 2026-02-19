@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer student at university of Lleida.<br>I like programming and web designing.<br>
+I'm a computer science student at university of Lleida.<br>I like programming and web designing.<br>
 
 
 ## 🌐 Socials:
